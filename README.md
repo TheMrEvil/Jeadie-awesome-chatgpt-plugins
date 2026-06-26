@@ -20,6 +20,7 @@
 
 ## Official Plugins
  - [Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
+ - [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
  - [Browsing](https://openai.com/blog/chatgpt-plugins#browsing): An experimental model that knows when and how to browse the internet
  - [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter): An experimental ChatGPT model that can use Python, handle uploads and downloads
 
